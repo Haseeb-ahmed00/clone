@@ -1,3 +1,4 @@
-hi
+# clone
+this is my first Git Repository
 <br>
-haseeb
+Author - Haseeb Ahmed
